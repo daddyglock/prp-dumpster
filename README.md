@@ -36,6 +36,9 @@ QB-Target --> init.lua
 
 ### Socials
 [Twitter](https://twitter.com/glockylol)
+
 [Twitch](https://twitch.tv/glockylol)
+
 [ProjectRP](https://discord.gg/ypgFuMuRYS)
+
 [ProjectTarkov](https://discord.gg/NPPkdy5pgg)
