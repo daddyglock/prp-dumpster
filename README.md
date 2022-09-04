@@ -3,6 +3,9 @@ Went looking in a dying SSD, decided to get it updated and on new exports (that'
 Got a new project coming along so I thought why not bring it back and get it ready for the new server.
 
 ## QB-Target
+
+QB-Target --> init.lua
+
 ```
  ["trashsearch"] = {
         models = {
@@ -30,3 +33,9 @@ Got a new project coming along so I thought why not bring it back and get it rea
         distance = 3.0
     },
 ```
+
+### Socials
+[Twitter](https://twitter.com/glockylol)
+[Twitch](https://twitch.tv/glockylol)
+[ProjectRP](https://discord.gg/ypgFuMuRYS)
+[ProjectTarkov](https://discord.gg/NPPkdy5pgg)
